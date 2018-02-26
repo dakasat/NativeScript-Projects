@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Insigo\.android\build-cache\60116ed7911c1a5e59c890036e76e823956f998b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\NS\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_fe4c73c89ca28b055b491506fac2b40f2d01216c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Insigo\.android\build-cache\5cff347eb9e88b7b96dff5c03037f23d22a39927\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\NS\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_fc72798719eb6654e900e1a7e252ec23c51c3e68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Insigo\.android\build-cache\b91866350a7946c73f1ddaf62dc389d4d10565ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\NS\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_e7db0aba329e91dce99238a8dda638702f5dda8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Insigo\.android\build-cache\cd330c68e419e23f050ed09c9c57381cf5a6f5df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\NS\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_4a9f0f2d45089e28825d011e84d37d646ad9715c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Insigo\.android\build-cache\68f15eecdd0adbb5533dacdd5349849423552b64\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\NS\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_ae3a381a00bc1c6bbef819fd62ddf97534ce0db4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Insigo\.android\build-cache\77cedc267b533baa4d67ca47902813b99b5374d9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\NS\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_405c1e9dfb612280be400e23f4c8d836bfb78dad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Insigo\.android\build-cache\6721920bc6a7209ad594b616b0d8b94c263435b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="C:\NS\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_bd67f40aeafe0b817772435c73b294d5616f77b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Insigo\.android\build-cache\2a496b14472b12f7dbed34b78513d6e10fac3315\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\NS\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_94dca3df6930ec5566a5bfd2a60505ff0879c842.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Insigo\.android\build-cache\b2b5d1a6004e7ce193042d15ef88e35f829ccf2c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="C:\NS\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_41f0bcaa383701336c05e760999246d721fa3218.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Insigo\.android\build-cache\25e66f9611f68a7815cbec3b07fac123fe09e855\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\NS\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_9a728190b31f59acc99bfa5b12a081551c1d5666.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Insigo\.android\build-cache\8e3cee0895894b75d22e40e2bb92879fa70bce21\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\NS\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_04340d076e3524b294e01601b498d9fad5374b1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Insigo\.android\build-cache\0db59117461311a33a7efe9c9bd487249c83effe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\NS\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_aaf645718cb2eec9a6bbbf66953ab6679cd9c472.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Insigo\.android\build-cache\ec3e567717c019f65335a70d8cdb603bdd9d6107\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\NS\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_3baeed2e40519988338c6c318e36d50b3c2d0496.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\NS\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_07cc1bdab6386cc71ca9e51c0b2d242e9420314e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Insigo\.android\build-cache\a7b076c13804d8c80c6a13cb5beac64adb23e7fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\NS\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_9a83cfea9fb757dcbd1a4b0715a8bc6018bb6971.jar" />
+    </item>
+
+</items>
